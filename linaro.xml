@@ -21,7 +21,7 @@
   <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" revision="marshmallow-dev" remote="github" groups="device,hikey" />
   <project path="packages/apps/UsbSpeedSwitch" name="android_packages_apps_UsbSpeedSwitch" revision="master" remote="github" groups="device,hikey" />
 
-  <project path="external/libpciaccess" name="platform/external/libpciaccess" remote="x86" revision="marshmallow-x86" />
+  <project path="external/libpciaccess" name="libpciaccess" remote="robh" revision="master" />
 
   <remove-project path="external/mesa3d" name="platform/external/mesa3d" />
   <project path="external/mesa3d" name="mesa/mesa" revision="master" remote="freedesktop" groups="default" />
