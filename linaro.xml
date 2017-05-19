@@ -102,14 +102,12 @@
   <remove-project path="external/apache-xml" name="platform/external/apache-xml" />
   <remove-project path="external/archive-patcher" name="platform/external/archive-patcher" />
   <remove-project path="external/autotest" name="platform/external/autotest" />
-  <remove-project path="external/avb" name="platform/external/avb" />
   <remove-project path="external/blktrace" name="platform/external/blktrace" />
   <remove-project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <remove-project path="external/bsdiff" name="platform/external/bsdiff" />
   <remove-project path="external/bzip2" name="platform/external/bzip2" />
   <remove-project path="external/c-ares" name="platform/external/c-ares" />
   <remove-project path="external/caliper" name="platform/external/caliper" />
-  <remove-project path="external/cblas" name="platform/external/cblas" />
   <remove-project path="external/chromium-libpac" name="platform/external/chromium-libpac" />
   <remove-project path="external/chromium-trace" name="platform/external/chromium-trace" />
   <remove-project path="external/chromium-webview" name="platform/external/chromium-webview" />
@@ -132,17 +130,14 @@
   <remove-project path="external/easymock" name="platform/external/easymock" />
   <remove-project path="external/eclipse-basebuilder" name="platform/external/eclipse-basebuilder" />
   <remove-project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" />
-  <remove-project path="external/eigen" name="platform/external/eigen" />
   <remove-project path="external/emma" name="platform/external/emma" />
   <remove-project path="external/esd" name="platform/external/esd" />
   <remove-project path="external/eyes-free" name="platform/external/eyes-free" />
-  <remove-project path="external/f2fs-tools" name="platform/external/f2fs-tools" />
   <remove-project path="external/fdlibm" name="platform/external/fdlibm" />
   <remove-project path="external/fio" name="platform/external/fio" />
   <remove-project path="external/fmtlib" name="platform/external/fmtlib" />
   <remove-project path="external/fonttools" name="platform/external/fonttools" />
   <remove-project path="external/fsck_msdos" name="platform/external/fsck_msdos" />
-  <remove-project path="external/gemmlowp" name="platform/external/gemmlowp" />
   <remove-project path="external/glide" name="platform/external/glide" />
   <remove-project path="external/google-breakpad" name="platform/external/google-breakpad" />
   <remove-project path="external/google-fonts/carrois-gothic-sc" name="platform/external/google-fonts/carrois-gothic-sc" />
@@ -189,7 +184,6 @@
   <remove-project path="external/libedit" name="platform/external/libedit" />
   <remove-project path="external/libese" name="platform/external/libese" />
   <remove-project path="external/libdaemon" name="platform/external/libdaemon" />
-  <remove-project path="external/libexif" name="platform/external/libexif" />
   <remove-project path="external/libgdx" name="platform/external/libgdx" />
   <remove-project path="external/libldac" name="platform/external/libldac" />
   <remove-project path="external/liblzf" name="platform/external/liblzf" />
@@ -468,7 +462,6 @@
   <remove-project path="system/tools/aidl" name="platform/system/tools/aidl" />
   <remove-project path="system/tpm" name="platform/system/tpm" />
   <remove-project path="system/update_engine" name="platform/system/update_engine" />
-  <remove-project path="system/vold" name="platform/system/vold" />
   <remove-project path="test/vts-testcase/fuzz" name="platform/test/vts-testcase/fuzz" />
   <remove-project path="test/vts-testcase/hal" name="platform/test/vts-testcase/hal" />
   <remove-project path="test/vts-testcase/hal-trace" name="platform/test/vts-testcase/hal-trace" />
