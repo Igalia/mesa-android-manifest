@@ -74,8 +74,6 @@
   <remove-project path="device/google/dragon-kernel" name="device/google/dragon-kernel" />
   <remove-project path="device/google/marlin" name="device/google/marlin" />
   <remove-project path="device/google/marlin-kernel" name="device/google/marlin-kernel" />
-  <remove-project path="device/htc/flounder" name="device/htc/flounder" />
-  <remove-project path="device/htc/flounder-kernel" name="device/htc/flounder-kernel" />
   <remove-project path="device/huawei/angler" name="device/huawei/angler" />
   <remove-project path="device/huawei/angler-kernel" name="device/huawei/angler-kernel" />
   <remove-project path="device/lge/bullhead" name="device/lge/bullhead" />
