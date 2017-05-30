@@ -171,7 +171,6 @@
   <remove-project path="external/ksoap2" name="platform/external/ksoap2" />
   <remove-project path="external/libbackup" name="platform/external/libbackup" />
   <remove-project path="external/libbrillo" name="platform/external/libbrillo" />
-  <remove-project path="external/libcap" name="platform/external/libcap" />
   <remove-project path="external/libcap-ng" name="platform/external/libcap-ng" />
   <remove-project path="external/libconstrainedcrypto" name="platform/external/libconstrainedcrypto" />
   <remove-project path="external/libcups" name="platform/external/libcups" />
