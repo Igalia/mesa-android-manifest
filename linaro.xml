@@ -83,8 +83,6 @@
   <remove-project path="device/linaro/bootloader/OpenPlatformPkg" name="device/linaro/bootloader/OpenPlatformPkg" />
   <remove-project path="device/linaro/hikey" name="device/linaro/hikey" />
   <remove-project path="device/linaro/hikey-kernel" name="device/linaro/hikey-kernel" />
-  <remove-project path="device/moto/shamu" name="device/moto/shamu" />
-  <remove-project path="device/moto/shamu-kernel" name="device/moto/shamu-kernel" />
   <remove-project path="device/sample" name="device/sample" />
   <remove-project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <remove-project path="external/abi-compliance-checker" name="platform/external/abi-compliance-checker" />
