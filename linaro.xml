@@ -41,7 +41,6 @@
   <remove-project path="art" name="platform/art" />
   <remove-project path="bootable/recovery" name="platform/bootable/recovery" />
   <remove-project path="compatibility/cdd" name="platform/compatibility/cdd" />
-  <remove-project path="cts" name="platform/cts" />
   <remove-project path="dalvik" name="platform/dalvik" />
   <remove-project path="developers/build" name="platform/developers/build" />
   <remove-project path="developers/demos" name="platform/developers/demos" />
@@ -104,7 +103,6 @@
   <remove-project path="external/c-ares" name="platform/external/c-ares" />
   <remove-project path="external/caliper" name="platform/external/caliper" />
   <remove-project path="external/chromium-libpac" name="platform/external/chromium-libpac" />
-  <remove-project path="external/chromium-trace" name="platform/external/chromium-trace" />
   <remove-project path="external/chromium-webview" name="platform/external/chromium-webview" />
   <remove-project path="external/cmockery" name="platform/external/cmockery" />
   <remove-project path="external/conscrypt" name="platform/external/conscrypt" />
@@ -219,7 +217,6 @@
   <remove-project path="external/neven" name="platform/external/neven" />
   <remove-project path="external/nfacct" name="platform/external/nfacct" />
   <remove-project path="external/nist-pkits" name="platform/external/nist-pkits" />
-  <remove-project path="external/nist-sip" name="platform/external/nist-sip" />
   <remove-project path="external/noto-fonts" name="platform/external/noto-fonts" />
   <remove-project path="external/oauth" name="platform/external/oauth" />
   <remove-project path="external/objenesis" name="platform/external/objenesis" />
@@ -248,7 +245,6 @@
   <remove-project path="external/spirv-llvm" name="platform/external/spirv-llvm" />
   <remove-project path="external/strace" name="platform/external/strace" />
   <remove-project path="external/svox" name="platform/external/svox" />
-  <remove-project path="external/tagsoup" name="platform/external/tagsoup" />
   <remove-project path="external/testng" name="platform/external/testng" />
   <remove-project path="external/tcpdump" name="platform/external/tcpdump" />
   <remove-project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" />
@@ -276,7 +272,6 @@
   <remove-project path="frameworks/ex" name="platform/frameworks/ex" />
   <remove-project path="frameworks/hardware/interfaces" name="platform/frameworks/hardware/interfaces" />
   <remove-project path="frameworks/ml" name="platform/frameworks/ml" />
-  <remove-project path="frameworks/multidex" name="platform/frameworks/multidex" />
   <remove-project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" />
   <remove-project path="frameworks/opt/bluetooth" name="platform/frameworks/opt/bluetooth" />
   <remove-project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
@@ -288,15 +283,11 @@
   <remove-project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" />
   <remove-project path="frameworks/opt/net/ethernet" name="platform/frameworks/opt/net/ethernet" />
   <remove-project path="frameworks/opt/net/ims" name="platform/frameworks/opt/net/ims" />
-  <remove-project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" />
   <remove-project path="frameworks/opt/net/wifi" name="platform/frameworks/opt/net/wifi" />
   <remove-project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <remove-project path="frameworks/opt/setupwizard" name="platform/frameworks/opt/setupwizard" />
-  <remove-project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" />
   <remove-project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" />
   <remove-project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
-  <remove-project path="frameworks/support" name="platform/frameworks/support" />
-  <remove-project path="frameworks/data-binding" name="platform/frameworks/data-binding" />
   <remove-project path="frameworks/webview" name="platform/frameworks/webview" />
   <remove-project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
   <remove-project path="hardware/akm" name="platform/hardware/akm" />
@@ -458,9 +449,7 @@
   <remove-project path="system/update_engine" name="platform/system/update_engine" />
   <remove-project path="test/vts-testcase/fuzz" name="platform/test/vts-testcase/fuzz" />
   <remove-project path="test/vts-testcase/hal" name="platform/test/vts-testcase/hal" />
-  <remove-project path="test/vts-testcase/hal-trace" name="platform/test/vts-testcase/hal-trace" />
   <remove-project path="test/vts-testcase/kernel" name="platform/test/vts-testcase/kernel" />
-  <remove-project path="test/vts-testcase/performance" name="platform/test/vts-testcase/performance" />
   <remove-project path="test/vts-testcase/security" name="platform/test/vts-testcase/security" />
   <remove-project path="test/vts-testcase/vndk" name="platform/test/vts-testcase/vndk" />
   <remove-project path="tools/adt/idea" name="platform/tools/adt/idea" />
